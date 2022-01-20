@@ -1,7 +1,7 @@
 {
   "name": "customquerysearchtool-backend",
   "version": "1.0.0",
-  "description": "",
+  "description": "The backend to process user search queries for a given restaurant data.",
   "main": "app.js",
   "scripts": {
     "start": "node app.js",
